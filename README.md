@@ -1,5 +1,7 @@
 # Outils
 
+Vous pouvez proposer un nouvel outil à faire apparaître dans cette liste en [créant une demande](https://github.com/Experiencis/outils/issues/new?assignees=rdphv&labels=%C3%A0+traiter&template=proposer-un-outil.md&title=%5BNOUV+OUTIL%5D+).
+
 ## Accessibilité
 
 *Vérification, recommandations et veille*
